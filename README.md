@@ -1,20 +1,16 @@
-<!-- ============ HERO BANNER (B&W figure + blue aura) ============ -->
+<!-- ============ THUNDER INTRO (animated SVG) ============ -->
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Banner" width="100%"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Madeswaran+J+V+%E2%9A%A1;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;I+build+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Madeswaranjv-1E90FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a" />
-  <img src="https://komarev.com/ghpvc/?username=Madeswaranjv&style=for-the-badge&color=1E90FF&labelColor=0a0e1a&label=VIEWS" />
-  <img src="https://img.shields.io/github/followers/Madeswaranjv?style=for-the-badge&logo=github&color=1E90FF&labelColor=0a0e1a" />
+  <img src="./assets/hero.svg" alt="Madeswaran J V - Full Stack Developer" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:1E90FF,100:0a0e1a&height=3&section=header" width="100%"/>
+  <img src="https://img.shields.io/badge/Profile_Views-Madeswaranjv-FFD500?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a" />
+  <img src="https://komarev.com/ghpvc/?username=Madeswaranjv&style=for-the-badge&color=FFD500&labelColor=0a0e1a&label=VIEWS" />
+  <img src="https://img.shields.io/github/followers/Madeswaranjv?style=for-the-badge&logo=github&color=FFD500&labelColor=0a0e1a" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:FFD500,100:0a0e1a&height=3&section=header" width="100%"/>
 </p>
 
 ---
@@ -24,7 +20,7 @@
 <table>
 <tr>
 <td width="38%" align="center">
-  <img src="./assets/goku-bw.jpg" alt="Power" width="100%" style="border-radius:16px"/>
+  <img src="./assets/bolt.svg" alt="Thunder" width="100%"/>
 </td>
 <td width="62%">
 
@@ -57,7 +53,7 @@ const madeswaran = {
 
 <p align="center">
   <b>Frontend</b><br/>
-  <img src="https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=1E90FF" />
+  <img src="https://img.shields.io/badge/React-0a0e1a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-0a0e1a?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-0a0e1a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-0a0e1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -118,7 +114,7 @@ Full-stack e-commerce platform for handmade crochet & yarn products with custom 
 ### 🩺 [Healix](https://github.com/Madeswaranjv/Healix)
 Full-stack AI healthcare assistant: real-time token streaming, multi-format medical document parsing (PDF, Word, lab reports), live clinical web search and vision inspection.
 
-![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=1E90FF)
+![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0e1a?style=flat-square&logo=fastapi&logoColor=009688)
 ![Python](https://img.shields.io/badge/Python-0a0e1a?style=flat-square&logo=python&logoColor=3776AB)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0a0e1a?style=flat-square&logoColor=white)
@@ -131,7 +127,7 @@ Full-stack AI healthcare assistant: real-time token streaming, multi-format medi
 ### 🍲 [AnnamConnect](https://github.com/Madeswaranjv/AnnamConnect)
 Food rescue platform bridging donors, recipients, volunteers and admins with real-time updates and map-based tracking.
 
-![React](https://img.shields.io/badge/React_18-0a0e1a?style=flat-square&logo=react&logoColor=1E90FF)
+![React](https://img.shields.io/badge/React_18-0a0e1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node](https://img.shields.io/badge/Node.js-0a0e1a?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-0a0e1a?style=flat-square&logo=socketdotio&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-0a0e1a?style=flat-square&logo=leaflet&logoColor=199900)
@@ -142,7 +138,7 @@ Food rescue platform bridging donors, recipients, volunteers and admins with rea
 ### 🌐 [Portfolio](https://portfolio-ten-orcin-51.vercel.app/)
 Sleek, modern developer portfolio with dark mode UI, responsive layout, smooth micro-animations and interactive sections.
 
-![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=1E90FF)
+![React](https://img.shields.io/badge/React-0a0e1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-0a0e1a?style=flat-square&logo=vite&logoColor=646CFF)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0a0e1a?style=flat-square&logo=framer&logoColor=white)
 
@@ -155,16 +151,16 @@ Sleek, modern developer portfolio with dark mode UI, responsive layout, smooth m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Madeswaranjv&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=4FC3F7&text_color=C9D1D9&icon_color=1E90FF&bg_color=0a0e1a&border_color=1E90FF&ring_color=1E90FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madeswaranjv&layout=compact&langs_count=8&title_color=4FC3F7&text_color=C9D1D9&bg_color=0a0e1a&border_color=1E90FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Madeswaranjv&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=FFE766&text_color=C9D1D9&icon_color=FFD500&bg_color=0a0e1a&border_color=FFD500&ring_color=FFD500" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madeswaranjv&layout=compact&langs_count=8&title_color=FFE766&text_color=C9D1D9&bg_color=0a0e1a&border_color=FFD500" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Madeswaranjv&theme=dark&background=0a0e1a&ring=1E90FF&fire=4FC3F7&currStreakLabel=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=1E90FF&border=1E90FF" />
+  <img src="https://streak-stats.demolab.com?user=Madeswaranjv&theme=dark&background=0a0e1a&ring=FFD500&fire=FFE766&currStreakLabel=FFE766&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=FFD500&border=FFD500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madeswaranjv&bg_color=0a0e1a&color=4FC3F7&line=1E90FF&point=FFFFFF&area=true&area_color=1E90FF&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madeswaranjv&bg_color=0a0e1a&color=FFE766&line=FFD500&point=FFFFFF&area=true&area_color=FFD500&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -184,11 +180,11 @@ Sleek, modern developer portfolio with dark mode UI, responsive layout, smooth m
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://portfolio-ten-orcin-51.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=white&color=1E90FF" /></a>
-  <a href="https://www.linkedin.com/in/madeswaran-j-v-4909b8325"><img src="https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=1E90FF" /></a>
-  <a href="https://www.fiverr.com/madeswaran_"><img src="https://img.shields.io/badge/Hire_me_on_Fiverr-0a0e1a?style=for-the-badge&logo=fiverr&logoColor=1DBF73&color=1E90FF" /></a>
+  <a href="https://portfolio-ten-orcin-51.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0e1a?style=for-the-badge&logo=vercel&logoColor=0a0e1a&color=FFD500" /></a>
+  <a href="https://www.linkedin.com/in/madeswaran-j-v-4909b8325"><img src="https://img.shields.io/badge/LinkedIn-0a0e1a?style=for-the-badge&logo=linkedin&logoColor=0a0e1a&color=FFD500" /></a>
+  <a href="https://www.fiverr.com/madeswaran_"><img src="https://img.shields.io/badge/Hire_me_on_Fiverr-0a0e1a?style=for-the-badge&logo=fiverr&logoColor=0a0e1a&color=FFD500" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1E90FF,100:0a0e1a&height=120&section=footer&text=Break%20your%20limits%20%E2%9A%A1&fontColor=ffffff&fontSize=22&fontAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:FFD500,100:0a0e1a&height=120&section=footer&text=Break%20your%20limits%20%E2%9A%A1&fontColor=ffffff&fontSize=22&fontAlignY=70" width="100%"/>
 </p>
